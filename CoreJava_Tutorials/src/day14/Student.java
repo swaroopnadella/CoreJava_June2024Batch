@@ -11,8 +11,6 @@ public class Student {
 	//methods
 	public void displayAllValues(){
 		
-		int rollnum = 25; //local variables
-		
 		System.out.println(rollnum);
 		System.out.println(name);
 		System.out.println(grade);
