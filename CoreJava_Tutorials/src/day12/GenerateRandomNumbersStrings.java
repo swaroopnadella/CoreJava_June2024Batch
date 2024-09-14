@@ -2,7 +2,7 @@ package day12;
 
 import java.util.Random;
 
-import org.apache.commons.lang3.RandomStringUtils;
+//import org.apache.commons.lang3.RandomStringUtils;
 
 public class GenerateRandomNumbersStrings {
 
@@ -34,11 +34,11 @@ public class GenerateRandomNumbersStrings {
 		
 		//Approach 3 - Apache commons lang api
 		
-		String str= RandomStringUtils.randomNumeric(10);
-		System.out.println(str);
+		//String str= RandomStringUtils.randomNumeric(10);
+		//System.out.println(str);
 		
-		String randomString = RandomStringUtils.randomAlphabetic(15);
-		System.out.println(randomString);
+		//String randomString = RandomStringUtils.randomAlphabetic(15);
+		//System.out.println(randomString);
 		
 	}
 

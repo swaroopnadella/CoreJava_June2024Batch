@@ -1,8 +1,6 @@
-package testAccessModifier;
+package day22;
 
-import day22.Test;
-
-public class TestMain {
+public class TestMain2 {
 	
 	public static void main(String[] args) {
 		
